@@ -1,0 +1,126 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    color: #066aab;
+    overflow-x: hidden;
+}
+
+.header
+{
+    margin-top:0px;
+    width:100%;
+    margin-left: 60px;
+    font-size: 20px;
+    padding:10px;
+    font-family: Montserrat;
+    letter-spacing: -0.2px;
+    font-weight: 500;
+    line-height: 17px;
+    color:#066aab;
+
+}
+ 
+.card{
+    margin-top:10px;
+    margin-left:20px;
+    box-sizing: border-box;
+   
+}
+
+.time-header
+{
+
+}
+
+.accordion
+{
+    margin-left:115px;
+    width:1000px;
+    box-shadow: none;
+    background-color: white;
+}
+
+.para
+{
+    width:500px;
+    height:400px;
+}
+
+
+
+.main
+{
+    position: relative;
+    display: inline-block;
+}
+
+
+.img
+{
+    display:block;
+}
+
+.centered-text {
+    position:sticky;
+    display: flex;
+    font-family: var(--theme-font-family);
+    top: 50%;
+    left: 50%;
+    margin-bottom: 250px;
+    transform: translate(-50%, -95%);
+    color: white;
+    font-size: 75px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5); /* Optional: Adds a semi-transparent background */
+    padding: 10px; /* Optional: Adds padding around the text */
+    border-radius: 5px;
+}
+
+
+.bottom-text {
+    position: sticky;
+    font-family: var(--theme-font-family);
+    bottom: -40px;
+    left: 50%;
+    transform: translateX(-50%);
+    transform: translateY(150%,-70%);
+    margin: 0;
+    padding: 0px;
+    font-weight:lighter;    
+    color: white; /* Text color */
+    font-size: 17px;
+    text-align: center;
+    width: 600px; /* Adjust width as needed */
+    box-sizing: border-box; /* Ensure padding is included in the element's width */
+}
+
+.logo
+{
+    margin-right: 100px;
+}
+.bi
+{
+    margin-left: 15px;
+    margin-top:20px;
+}
+
+
+
+.nav-logo
+{
+    margin-left: 120px;
+}
+
+.btn
+{
+    margin-left:200px;
+    margin-top:5px;
+    width:140px;
+    height: 45px;   
+}
+.btn:hover
+{
+   color: blue;
+}
+

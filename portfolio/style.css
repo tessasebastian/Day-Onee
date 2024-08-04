@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  .navbar {
+    margin-bottom: 30px;
+  }
+  .header {
+    background-color: #f8f9fa;
+    padding: 100px 0;
+    text-align: center;
+  }
+  .header h1 {
+    margin-bottom: 20px;
+  }
+  .projects, .skills, .contact {
+    padding: 50px 0;
+
+  }
+  .project-card {
+    margin-bottom: 30px;
+  }
+  .contact form input,
+  .contact form textarea {
+    margin-bottom: 15px;
+  }
+
+.text-center
+{
+  margin-left: -450px;
+  color:black;
+  font-size:35px;
+  margin-bottom:35px;
+  width:1600px;
+  font-weight: bold;
+}
+
+h2
+{
+  margin-left: -210px;
+
+}
+/*#nest
+{
+  margin-right:150px;
+}
+
+#nyka
+{
+  margin-right:150px;
+}*/
+
+#contact
+{
+  margin-left: -510px;
+}
+
+.skill
+{
+  font-size:35px;
+  color:black;
+  margin-left:7px;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.footer
+{
+  background-color: black;
+  color:white;
+  height:100px;
+}
+
+#footpara{
+  margin-left:600px;
+  margin-top:20px;
+}
+  #projects
+  {
+    margin-left:400px;
+  }
